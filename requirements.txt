@@ -9,4 +9,3 @@ scikit-learn
 openai
 python-dotenv
 streamlit
-altair<5
